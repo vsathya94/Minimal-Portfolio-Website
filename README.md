@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Minimal Portfolio Website</h1>
-This a minimal portfolio website for designers and developers.
+This a minimal portfolio website for designers and developers. Satya will be adding changes to his version of the website.
 </div>
  &nbsp;
 <img src="Preview.png">
